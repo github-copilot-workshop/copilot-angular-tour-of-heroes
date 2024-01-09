@@ -17,7 +17,3 @@ ng serve --host=0.0.0.0
 ```
 
 You can go for example to the `http://localhost:4200/heroes` page and see the list of Heroes
-
-
-## 001 - Adding and Showing new attributes to the Hero class
-
